@@ -1,0 +1,10 @@
+================================================================================
+TABLE TRACKER PRO - CUSTOMER DATA EXPORT
+Generated on: 2025-09-15 12:25:37
+================================================================================
+
+TOTAL CUSTOMERS: 0
+EXPORT FILE: /home/h21s/table_tracker_pro/data/customer_export.txt
+DATABASE: /home/h21s/table_tracker_pro/data/table_tracker.db
+
+No customers found.
