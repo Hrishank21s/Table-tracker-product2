@@ -1,7 +1,5 @@
 Table Tracker Pro - Global Access Edition
-![Version](https://img.shields.ioio system** for snooker halls and pool clubs with worldwide accessibility via Tailscale Funnel. Built on Raspberry Pi for reliability and cost-effectiveness.
-
-![Table Tracker Screenshot](https://via.placeholder.com/600 🎯 Features
+for snooker halls and pool clubs with worldwide accessibility via Tailscale Funnel. Built on Raspberry Pi for reliability and cost-effectiveness.
 
 🎱 Real-time table management - Track snooker and pool table usage
 
